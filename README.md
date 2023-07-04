@@ -2,6 +2,21 @@
 
 Todo API is a RESTful API developed using Java Spring Boot. This API allows users to manage their Todo lists.
 
+## Dependencies
+
+The project uses the following dependencies:
+
+| Dependency | Version |
+| ---------- | ------- |
+| Java | 17 |
+| Spring Boot | 3.0.8 |
+| Spring Boot Starter Data JPA | - |
+| Spring Boot Starter Web | - |
+| Spring Boot Devtools | - |
+| PostgreSQL | - |
+| Lombok | - |
+| Spring Boot Starter Test | - |
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
